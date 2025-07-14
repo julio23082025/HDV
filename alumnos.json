@@ -41,27 +41,27 @@
   },
    {
     "alumno": "Rocío",
-    "ranking": 10,
+    "ranking": 9,
     "nota": 9.2
   },
   {
     "alumno": "Yesenia",
-    "ranking": 11,
+    "ranking": 10,
     "nota": 10
   },
   {
     "alumno": "Bindi",
-    "ranking": 12,
+    "ranking": 11,
     "nota": 7.2
   },
   {
     "alumno": "Rociito",
-    "ranking": 13,
+    "ranking": 12,
     "nota": 8.5
   },
   {
     "alumno": "Becerra",
-    "ranking": 14,
+    "ranking": 13,
     "nota": 10
   }
 ]
