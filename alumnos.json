@@ -1,6 +1,6 @@
 [
   {
-    "alumno": "Julinsky",
+    "alumno": "Julio",
     "ranking": 1,
     "nota": 9.8
   },
@@ -52,11 +52,21 @@
   {
     "alumno": "Yesenia",
     "ranking": 11,
-    "nota": 9.6
+    "nota": 10
   },
   {
     "alumno": "Bindi",
     "ranking": 12,
     "nota": 7.2
+  },
+  {
+    "alumno": "Rociito",
+    "ranking": 13,
+    "nota": 8.5
+  },
+  {
+    "alumno": "Becerra",
+    "ranking": 14,
+    "nota": 10
   }
 ]
